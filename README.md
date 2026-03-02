@@ -4,7 +4,7 @@ npm i
 npm run dev
 
 ### cấu trúc thư mục
-"""
+```
 .
 └── root/
     ├── handle/
@@ -32,4 +32,4 @@ npm run dev
     ├── admin.php // host trang admin
     ├── user.php
     └── index.php
-"""
+```
